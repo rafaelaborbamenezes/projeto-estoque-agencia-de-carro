@@ -5,8 +5,9 @@ class Program
     static void Main(string[] args)
     {
          
-      int menu =0; 
-            
+        int menu =0; 
+
+        do{    
         Console.WriteLine("\n\nO que você deseja fazer?");
         Console.WriteLine("1. NOVO");
         Console.WriteLine("2. LISTAR PRODUTOS");
@@ -17,8 +18,8 @@ class Program
         menu = Convert.ToInt32(Console.ReadLine());    
            
             
-        }
-              
+        } while (menu!=0);
+    }   
         }      
 
     
