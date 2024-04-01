@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("projeto-estoque-agencia-de-carro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01b49b2c9a020d7c38e3d83c1979bb0fc74a9dd8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27abcd01679c53f4d5ac252dd17ff7ef9e368f79")]
 [assembly: System.Reflection.AssemblyProductAttribute("projeto-estoque-agencia-de-carro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("projeto-estoque-agencia-de-carro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
