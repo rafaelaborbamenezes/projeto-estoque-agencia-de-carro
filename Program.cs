@@ -66,6 +66,20 @@ class Program
             agencia.Remover(posicao);     
             break; 
 
+            case 4: 
+             
+            Console.WriteLine("\nItens no estoque: ");
+            agencia.Listar(); 
+
+            Console.WriteLine("Informe a posição do carro: "); 
+            int pos = Convert.ToInt32(Console.ReadLine()); 
+
+            Console.WriteLine("Informe a quantidade de entrada: "); 
+            int quant = Convert.ToInt32(Console.ReadLine()); 
+             
+            agencia.Entrada(pos,quant);
+
+            break;
 
     
         }    
