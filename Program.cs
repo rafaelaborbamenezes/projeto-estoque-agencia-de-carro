@@ -80,7 +80,21 @@ class Program
             agencia.Entrada(pos,quant);
 
             break;
+             
+            case 5: 
 
+            Console.WriteLine("\nItens no estoque: ");
+            agencia.Listar(); 
+
+            Console.WriteLine("Informe a posição do carro: "); 
+            int posi = Convert.ToInt32(Console.ReadLine()); 
+
+            Console.WriteLine("Informe a quantidade de saída: "); 
+            int quanti = Convert.ToInt32(Console.ReadLine()); 
+             
+            agencia.Saida(posi,quanti);
+
+            break;
     
         }    
             
