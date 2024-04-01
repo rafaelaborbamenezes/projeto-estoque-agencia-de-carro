@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\projeto-estoque-agencia-de-carro\bin\Debug\net8.0\projeto-estoque-agencia-de-carro.exe
+C:\Users\DELL\Desktop\projeto-estoque-agencia-de-carro\bin\Debug\net8.0\projeto-estoque-agencia-de-carro.deps.json
+C:\Users\DELL\Desktop\projeto-estoque-agencia-de-carro\bin\Debug\net8.0\projeto-estoque-agencia-de-carro.runtimeconfig.json
+C:\Users\DELL\Desktop\projeto-estoque-agencia-de-carro\bin\Debug\net8.0\projeto-estoque-agencia-de-carro.dll
+C:\Users\DELL\Desktop\projeto-estoque-agencia-de-carro\bin\Debug\net8.0\projeto-estoque-agencia-de-carro.pdb
+C:\Users\DELL\Desktop\projeto-estoque-agencia-de-carro\obj\Debug\net8.0\projeto-estoque-agencia-de-carro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\projeto-estoque-agencia-de-carro\obj\Debug\net8.0\projeto-estoque-agencia-de-carro.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\projeto-estoque-agencia-de-carro\obj\Debug\net8.0\projeto-estoque-agencia-de-carro.AssemblyInfo.cs
+C:\Users\DELL\Desktop\projeto-estoque-agencia-de-carro\obj\Debug\net8.0\projeto-estoque-agencia-de-carro.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\projeto-estoque-agencia-de-carro\obj\Debug\net8.0\projeto-estoque-agencia-de-carro.sourcelink.json
+C:\Users\DELL\Desktop\projeto-estoque-agencia-de-carro\obj\Debug\net8.0\projeto-estoque-agencia-de-carro.dll
+C:\Users\DELL\Desktop\projeto-estoque-agencia-de-carro\obj\Debug\net8.0\refint\projeto-estoque-agencia-de-carro.dll
+C:\Users\DELL\Desktop\projeto-estoque-agencia-de-carro\obj\Debug\net8.0\projeto-estoque-agencia-de-carro.pdb
+C:\Users\DELL\Desktop\projeto-estoque-agencia-de-carro\obj\Debug\net8.0\projeto-estoque-agencia-de-carro.genruntimeconfig.cache
+C:\Users\DELL\Desktop\projeto-estoque-agencia-de-carro\obj\Debug\net8.0\ref\projeto-estoque-agencia-de-carro.dll
