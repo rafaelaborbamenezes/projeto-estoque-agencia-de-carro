@@ -55,7 +55,11 @@ class Agencia{
 
         }
          
-          
+        public void Saida(int posi, int quanti){ 
+
+           Veiculo veiculo = veiculos[posi-1]; 
+           veiculo.QuantidadeEstoque -= quanti; 
+          }   
            
             
              
