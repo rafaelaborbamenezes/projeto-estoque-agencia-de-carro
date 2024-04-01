@@ -51,12 +51,20 @@ class Program
             break; 
              
             case 2:    
-            
+
             Console.WriteLine("\nItens no estoque: ");
             agencia.Listar();
             break;
         
+            case 3:  
+            Console.WriteLine("\nItens no estoque: ");
+            agencia.Listar(); 
 
+            Console.WriteLine("Informe a posição do carro a ser removida: "); 
+            int posicao = Convert.ToInt32(Console.ReadLine());  
+            
+            agencia.Remover(posicao);     
+            break; 
 
 
     
