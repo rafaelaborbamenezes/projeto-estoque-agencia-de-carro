@@ -2,9 +2,11 @@
 
 class Program
 {
-    static void Main(string[] args)
+    private static void Main(string[] args)
     {
-         
+        Agencia agencia = new Agencia(); 
+
+
         int menu =0; 
 
         do{    
@@ -17,10 +19,11 @@ class Program
         Console.WriteLine("0. SAIR");
         menu = Convert.ToInt32(Console.ReadLine());    
 
-        switch(menu) 
-        { 
+        switch(menu)  
+          {
+         
 
-            case1: 
+            case 1: 
 
             Veiculo novoVeiculo = new Veiculo();
                  
@@ -44,19 +47,17 @@ class Program
 
             Console.WriteLine("Veículo "+ novoVeiculo.Modelo +  " adicionado!");
              
-           // agencia.Cadastrar(novoVeiculo); 
+            agencia.Cadastrar(novoVeiculo);
             break; 
 
         
 
 
 
-        
-
+    
         }    
             
         } while (menu !=0);
-    }   
-}      
+    }}    
 
-    
+

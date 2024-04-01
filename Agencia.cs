@@ -14,4 +14,18 @@ class Agencia{
                          
                          
                 veiculos = novoVetor; 
-}}
+        } 
+ 
+        public void Listar() {   
+              int cont =1;
+              foreach(Veiculo item in veiculos){ 
+              
+              Console.WriteLine($"{cont}. {item.Modelo} (R$ {item.Preco}) - {item.QuantidadeEstoque} no estoque"); 
+              cont++; 
+             } 
+        }
+   
+    
+     
+      
+      }
