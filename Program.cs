@@ -49,7 +49,12 @@ class Program
              
             agencia.Cadastrar(novoVeiculo);
             break; 
-
+             
+            case 2:    
+            
+            Console.WriteLine("\nItens no estoque: ");
+            agencia.Listar();
+            break;
         
 
 
