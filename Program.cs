@@ -16,10 +16,47 @@ class Program
         Console.WriteLine("5. SAÍDA ESTOQUE"); 
         Console.WriteLine("0. SAIR");
         menu = Convert.ToInt32(Console.ReadLine());    
-           
+
+        switch(menu) 
+        { 
+
+            case1: 
+
+            Veiculo novoVeiculo = new Veiculo();
+                 
+            Console.WriteLine("\n\nInforme o nome do modelo do carro: ");
+            novoVeiculo.Modelo = Console.ReadLine();  
+
+            Console.WriteLine("Informe o valor do carro: "); 
+            novoVeiculo.Preco = Convert.ToDouble(Console.ReadLine()); 
+
+            Console.WriteLine("Informe a quantidade em estoque: "); 
+            novoVeiculo.QuantidadeEstoque = Convert.ToInt32(Console.ReadLine()); 
+
+            Console.WriteLine("Informe qual o ano do carro: "); 
+            novoVeiculo.Ano = Convert.ToInt32(Console.ReadLine()); 
+
+            Console.WriteLine("Informe o nome da marca do carro: "); 
+            novoVeiculo.Marca = Console.ReadLine();  
+
+            Console.WriteLine("Informe qual o tipo da direção do carro: "); 
+            novoVeiculo.Direcao = Console.ReadLine();  
+
+            Console.WriteLine("Veículo "+ novoVeiculo.Modelo +  " adicionado!");
+             
+           // agencia.Cadastrar(novoVeiculo); 
+            break; 
+
+        
+
+
+
+        
+
+        }    
             
-        } while (menu!=0);
+        } while (menu !=0);
     }   
-        }      
+}      
 
     
